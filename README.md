@@ -25,7 +25,8 @@ The program handles both uppercase and lowercase letters and skips non-alphabet 
 3.	Exit → num == 3
 4.	Invalid input → else (when the entered number is not 1, 2, or 3)
 #### If we choose :  1
-<img width="635" height="223" alt="image" src="https://github.com/user-attachments/assets/95228579-819d-4a63-94fc-38be3f375bd4" />
+<img width="635" height="223" alt="image" src="https://github.com/user-attachments/assets/624dcacc-e2d7-429a-8772-dd66e78e1595" />
+
 
 •	The program displays a menu with three options: Encode, Decode, and Exit.
 •	When the user selects 1 (Encode), the program asks for a text input (Usha) and a shift value (2).
