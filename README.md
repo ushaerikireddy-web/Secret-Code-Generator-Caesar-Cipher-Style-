@@ -41,10 +41,15 @@ The program handles both uppercase and lowercase letters and skips non-alphabet 
 
 
 •	The program asks the user to choose an option: 1.Encode, 2.decode, or 3.Exit. Here, the user chose 2 (decode).
+
 •	The user inputs the encoded message: Usha the "Coder"...!
+
 •	The program asks for the shift value, which is 2 in this case. This is the number of positions each letter was shifted in the Caesar cipher.
+
 •	The decode function shifts each alphabetic character backward by 2 positions in the alphabet.
+
 •	Non-alphabetic characters (like spaces, quotes, dots, exclamation) remain unchanged.
+
 •	The program prints the decoded message: Sqfy rfc "Ambcp"...! which is the original message before encoding.
 
 #### If we choose :  3
