@@ -37,7 +37,8 @@ The program handles both uppercase and lowercase letters and skips non-alphabet 
 ✅ This output confirms the program works as a Caesar Cipher encoding.
 
 #### If we choose :  2
-<img width="578" height="196" alt="image" src="https://github.com/user-attachments/assets/f956d90d-f2b3-4465-bb42-da2211a77d69" />
+<img width="578" height="196" alt="image" src="https://github.com/user-attachments/assets/d97e0d48-d47c-48c6-9c58-c2f2d2a68ad8" />
+
 
 •	The program asks the user to choose an option: 1.Encode, 2.decode, or 3.Exit. Here, the user chose 2 (decode).
 •	The user inputs the encoded message: Usha the "Coder"...!
@@ -47,14 +48,16 @@ The program handles both uppercase and lowercase letters and skips non-alphabet 
 •	The program prints the decoded message: Sqfy rfc "Ambcp"...! which is the original message before encoding.
 
 #### If we choose :  3
-<img width="508" height="200" alt="image" src="https://github.com/user-attachments/assets/fbafdb0a-57b2-4647-8598-6d508a0b56da" />
+<img width="508" height="200" alt="image" src="https://github.com/user-attachments/assets/dd064957-e7ed-4bfa-918e-2b1df8d3896e" />
+
 
 •	The user chose option 3 (Exit) from the menu, which tells the program to terminate.
 •	The program responds with “Existing...” (likely a typo for “Exiting...”) and stops running.
 
 
 #### If we choose :  4
-<img width="482" height="177" alt="image" src="https://github.com/user-attachments/assets/ac91f157-d574-48e7-bfbd-237c77cb1ebb" />
+<img width="482" height="177" alt="image" src="https://github.com/user-attachments/assets/95ea173b-7580-4ec6-b19a-e9869241e7d7" />
+
 
 •	The user entered 10, which is not a valid option in the menu (only 1, 2, or 3 are valid).
 •	The program responds with “Invalid...”, indicating the input is not recognized.
